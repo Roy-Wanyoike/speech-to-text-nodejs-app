@@ -1,0 +1,8 @@
+{
+  "watson_speech_to_text_apikey": "REPLACEME.speech-to-text-nodej-speechtotext-1672358490332.apikey",
+  "watson_speech_to_text_iam_apikey_description": "REPLACEME.speech-to-text-nodej-speechtotext-1672358490332.iam_apikey_description",
+  "watson_speech_to_text_iam_apikey_name": "REPLACEME.speech-to-text-nodej-speechtotext-1672358490332.iam_apikey_name",
+  "watson_speech_to_text_iam_role_crn": "REPLACEME.speech-to-text-nodej-speechtotext-1672358490332.iam_role_crn",
+  "watson_speech_to_text_iam_serviceid_crn": "REPLACEME.speech-to-text-nodej-speechtotext-1672358490332.iam_serviceid_crn",
+  "watson_speech_to_text_url": "REPLACEME.speech-to-text-nodej-speechtotext-1672358490332.url"
+}
